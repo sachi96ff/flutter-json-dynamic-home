@@ -20,7 +20,7 @@ dependencies:
   cached_network_image: ^3.4.1
 
   # ─── Icons ────────────────────────────────────────────────
-  lucide_icons: ^0.257.0
+  lucide_icons_lite: ^1.41.0
 
   # ─── HTTP / Networking ────────────────────────────────────
   http: ^1.2.2
