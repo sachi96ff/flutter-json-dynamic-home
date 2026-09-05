@@ -1,7 +1,7 @@
 // lib/dynamic_ui/widgets/interactive/dynamic_icon_button.dart
 
 import 'package:flutter/material.dart';
-import 'package:lucide_icons/lucide_icons.dart';
+import 'package:lucide_icons_lite/lucide_icons_lite.dart';
 import '../../engine/style_parser.dart';
 import '../../engine/action_handler.dart';
 import '../../models/widget_node.dart';
